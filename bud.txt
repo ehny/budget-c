@@ -1,0 +1,14 @@
+Housing
+Food
+Transport
+Bills
+Fun
+Income
+Savings
+200
+200
+200
+200
+200
+2000
+100
